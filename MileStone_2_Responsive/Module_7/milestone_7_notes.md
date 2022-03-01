@@ -1,29 +1,14 @@
-[Learn_and_explore_css_as_beginner]
+[More.css3.icon.css.animation]
 
-# 2-1 Introduction To CSS Module, Getting Started With CSS 
-# 2-2 Style Tag, Embedded Style, Named Color, Hexcode, Rgb
-# 2-3 Background-Color, Height, Width, Font, CSS Measuring Units
-# 2-4 CSS Id, Class, Apply Styles To Multiple Elements, Id Vs Class
-# 2-5 Style A Group Of Elements, Style A Small Portion Of Text
-# 2-6 Border, Border Radius, Margin, Different Ways To Set Margin
-# 2-7 Padding, Different Ways To Set Padding, CSS Box Model
-# 2-8 Text Align, Display, Inline, Block, Inline-Block
-# 2-9 External Inline CSS File Display Inline And Block
-# 2-10 CSS Module Summary
-   1. Css Means casecading style sheet 
-   2. border left 
-   3. background , color.
-   4. padding , margin , height , width , font , id , class , 
-   5. Text align , display , inline , block , inline block
-   6. External css  
-
-
-
-
-
-
-
-
-
-
+# 7-1 CSS3 Module Introduction visibility hidden vs display none
+# 7-2 CSS Overflow visible, hidden, scroll, text-overflow, ellipsis
+# 7-3 Optimize images, types of images, svg, png, jpg, Sprite
+# 7-4 Add icons using font awesome and create social links
+# 7-5 Transform element using rotate scale translate
+# 7-6 Introduction to CSS animation Transition
+# 7-7 Cricket match animation using transition and transform
+# 7-8 (advanced) CSS animation and bounce effect with balls
+# 7-9 Float left, float right, min-height, max-height, cursor
+# 7-10 Module Summary
+# 7_5-1 Practice HTML5, CSS3 and CSS positioning
 
