@@ -1,8 +1,12 @@
 section{
 	margin-bottom: 80px;
 }
+.navbar{
+	margin-bottom: 100px;
+}
 .slider-area{
 	margin: 80px 0;
+	margin-top: 147px;
 }
 .orange-bg{
 	background: #fceae8;
