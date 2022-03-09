@@ -1,0 +1,55 @@
+section{
+	margin-bottom: 80px;
+}
+.slider-area{
+	margin: 80px 0;
+}
+.orange-bg{
+	background: #fceae8;
+}
+.categories{
+	margin-bottom: 80px;
+}
+.bag{
+	background: orchid;
+}
+.watch{
+	background: orange;
+}
+.shoes{
+	background-color: blue;
+}
+.cate-img img{
+	width: 100px;
+}
+.title-text h1{
+	color: white;
+}
+.categories .row > div >div{
+	padding: 10px 30px;
+	border-radius: 15px;
+	-webkit-border-radius: 15px;
+	-moz-border-radius: 15px;
+	-ms-border-radius: 15px;
+	-o-border-radius: 15px;
+}
+.global-btn {
+	background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+	color: #fff;
+	border: none;
+	border-radius: 8px;
+	padding: 9px 25px;
+	cursor: pointer;
+}
+.card {
+	height: 485px;
+}
+#bages .card {
+	height: 620px;
+}
+#subs > div{
+	height: 300px;
+	display: flex;
+	justify-content: center;
+
+}
